@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Laboratório de Oceanografia Dinâmica
+title: 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Cauê Zirnberger Lazaneo"
-  avatar : "/assets/images/LOD_logo.png"
-  bio    : "Ph.D. in Oceanography "
+  name   : "Laboratory of Ocean Dynamics"
+  avatar : "/assets/images/LOD_logo.pdf"
+  # bio    : "Ph.D. in Oceanography "
   links:
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
