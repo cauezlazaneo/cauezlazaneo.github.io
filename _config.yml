@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Laboratory of Ocean Dynamics"
-  avatar : "/assets/images/LOD_logo.pdf"
+  avatar : "/assets/images/LOD_logo_lr.png"
   # bio    : "Ph.D. in Oceanography "
   links:
    # - label: "Website"
