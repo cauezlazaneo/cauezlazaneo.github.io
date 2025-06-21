@@ -2,14 +2,14 @@
 layout: single
 author_profile: true
 ---
-
-## Sobre mim
+<span class="small-text">Texto com fonte menor</span>
+### Sobre mim
 
 Sou oceanólogo formado pela **Universidade Federal do Rio Grande (FURG)** em 2011, com mestrado em **Oceanografia Física, Química e Geológica** pela mesma instituição (2014). Concluí o doutorado em **Oceanografia Física**, em regime de dupla titulação, pela **Universidade de São Paulo (USP)** e pela **University of Massachusetts Dartmouth**, em 2021.
 
 Após o doutorado, atuei como pós-doutorando na **USP** (2021–2022) e, em seguida, na **Stanford University** (2022–2024). Desde 2024, sou professor na **Universidade Federal de São Paulo (UNIFESP)**, onde desenvolvo atividades de ensino e pesquisa com foco em processos físicos multiescalares no oceano e suas interações com o clima e os ecossistemas marinhos.
 
-## Interesses de pesquisa
+### Interesses de pesquisa
 
 Meus interesses de pesquisa concentram-se na **física da circulação oceânica**, com ênfase nas dinâmicas energéticas e variáveis da camada superior do oceano, como **frentes** e **redemoinhos** (*eddies*). Esses processos desempenham um papel fundamental na redistribuição de calor, sal, nutrientes e gases dissolvidos entre a superfície e o interior do oceano, afetando tanto o **clima global** quanto a **estrutura e o funcionamento dos ecossistemas marinhos**.
 
