@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
-email:
+title: Laboratório de Oceanografia Dinâmica
+email: clazaneo@unifesp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Laboratory of Ocean Dynamics"
+  name   : "Laboratório de Oceanografia Dinâmica"
   avatar : "/assets/images/LOD_logo_lr.png"
-  # bio    : "Ph.D. in Oceanography "
+  bio    : "Laboratório de Pesquisa voltada para Oceanografia"
   links:
-   # - label: "Website"
-   #   icon: "fas fa-fw fa-link"
-   #   url: "https://"
+   - label: "Website"
+     icon: "fas fa-fw fa-link"
+     url: "https://unifesp.br/campus/san7/docentes-dcmar/3720-caue-zirnberger-lazaneo"
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
    #   url: "https://twitter.com/"
