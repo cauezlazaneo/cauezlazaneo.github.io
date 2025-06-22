@@ -1,6 +1,4 @@
 main:
-  - title: "Sobre mim"
-    url: /sobre_mim/
   - title: "Contato"
     url: /contato/
   - title: "Grupo"
