@@ -1,6 +1,6 @@
 ---
 layout: single
-class: wide
+classes: wide
 title: "Contato"
 permalink: /contato/
 ---
