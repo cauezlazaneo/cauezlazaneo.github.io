@@ -4,10 +4,10 @@ title: "Contato"
 permalink: /contato/
 ---
 
-Prof. Dr. Cauê Zirnberger Lazaneo//
-Departamento de Ciências do Mar//
-Instituto do Mar, Universidade Federal de São Paulo//
-Rua Carvalho de Mendonça, 144 - Encruzilhada//
+Prof. Dr. Cauê Zirnberger Lazaneo\\
+Departamento de Ciências do Mar\\
+Instituto do Mar, Universidade Federal de São Paulo\\
+Rua Carvalho de Mendonça, 144 - Encruzilhada\\
 Santos/SP - Brasil  11070-100
 
 
