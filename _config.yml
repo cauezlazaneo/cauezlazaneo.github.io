@@ -58,9 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Laboratório de Oceanografia Dinâmica"
+  name   : "Cauê Z. Lazaneo"
   avatar : "/assets/images/LOD_logo_lr.png"
-  bio    : "Laboratório de Pesquisa voltada para Oceanografia"
+  bio    : ""Professor Adjuntor<br /> Instituto do Mar<br /> Universidade Federal de São Paulo""
+  location         : "Santos, SP, Brasil"
+  email            : "clazaneo@unifesp.br"
+
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
