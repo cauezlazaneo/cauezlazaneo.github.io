@@ -4,11 +4,10 @@ title: "Contato"
 permalink: /contato/
 ---
 
-![Logo do LOD](assets/images/LOD_logo_lr.png)
 
 
-<p style="font-size: 0.8em;">Prof. Dr. Cauê Zirnberger Lazaneo\\
-</p>
+
+<p style="font-size: 0.8em;">Prof. Dr. Cauê Zirnberger Lazaneo </p> \\
 <p style="font-size: 0.8em;">Departamento de Ciências do Mar\\
 </p>
 <p style="font-size: 0.8em;">Instituto do Mar, Universidade Federal de São Paulo\\
