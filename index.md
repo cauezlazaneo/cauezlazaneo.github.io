@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Sobre mim"
+title: " "
 ---
 
 Sou oceanólogo formado pela **Universidade Federal do Rio Grande (FURG)** em 2011, com mestrado em **Oceanografia Física, Química e Geológica** pela mesma instituição (2014). Concluí o doutorado em **Oceanografia Física**, em regime de dupla titulação, pela **Universidade de São Paulo (USP)** e pela **University of Massachusetts Dartmouth**, em 2021.
