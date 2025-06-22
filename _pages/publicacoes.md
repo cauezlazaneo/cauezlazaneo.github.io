@@ -20,11 +20,12 @@ permalink: /publicacoes/
 0. [Mixed layer eddies supply nutrients to augment the spring phytoplankton bloom](https://doi.org/10.3389/fmars.2022.825027), I.T. Simoes-Sousa, A. Tandon, **C.Z. Lazaneo**, A. Mahadevan, *Frontiers in Marine Science, (2022)*
 0. [Submesoscale coherent vortices in the South Atlantic Ocean: A pathway for energy dissipation](https://doi.org/10.1029/2020JC017099), **C.Z. Lazaneo**, P.H.R. Calil, A. Tandon, I.C.A. da Silveira, *Journal of Geophysical Research: Oceans, (2022)*
 0. [On the role of turbulent mixing produced by vertical shear between the Brazil Current and the Intermediate Western Boundary Current](https://doi.org/10.1029/2019JC015338), **C.Z. Lazaneo**, D.C. Napolitano, I.C.A.da Silveira, A. Tandon, D.G. MacDonald, R.A. Ávila, P.H.R. Calil, *Journal of Geophysical Research: Oceans, (2020)*
-0. [Structure of the cetacean community around the Antarctic Peninsula](http://dx.doi.org/10.4322/apa.2014.113), **C.Z. Lazaneo**, L. Dalla Rosa, E.R. Secchi, *2013*
    
 
 ### Literarura Cinza
 
 0. [Mixing and submesoscale dynamics in the western South Atlantic Ocean](https://repository.lib.umassd.edu/view/pdfCoverPage?instCode=01MA_DM_INST&filePid=13155675680001301&download=true). **C.Z. Lazaneo**, *Ph.D. Dissertation (2021)*
 0. [Resposta da produção biológica frente à dinâmica dos sistemas de ressurgência costeira sobre a Plataforma Continental Brasileira](https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/0000011378.pdf), **C.Z. Lazaneo**, *Master’s Thesis, (2014)*
+0. [Structure of the cetacean community around the Antarctic Peninsula](http://dx.doi.org/10.4322/apa.2014.113), **C.Z. Lazaneo**, L. Dalla Rosa, E.R. Secchi, *2013*
+
 
