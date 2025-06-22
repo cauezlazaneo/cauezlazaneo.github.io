@@ -17,9 +17,9 @@ header:
 ### Graduação
 
 - [Victéria Melo](), Oceanografia, UNIFESP, 2025 - atual.
-- [Júlia Moreira Nascimento](), Bacharelado Interdisciplinar em Ciência e Técnologia do Mar, UNIFESP, 2024 - Atual.
-- [Ana Carolina André](), Bacharelado Interdisciplinar em Ciência e Técnologia do Mar, UNIFESP, 2024 - Atual.
-- [Ingrid Helena Pereira](), Bacharelado Interdisciplinar em Ciência e Técnologia do Mar, UNIFESP, 2024 - Atual.
+- [Júlia Moreira Nascimento](), Bacharelado Interdisciplinar em Ciência e Tecnologia do Mar, UNIFESP, 2024 - Atual.
+- [Ana Carolina André](), Bacharelado Interdisciplinar em Ciência e Tecnologia do Mar, UNIFESP, 2024 - Atual.
+- [Ingrid Helena Pereira](), Bacharelado Interdisciplinar em Ciência e Tecnologia do Mar, UNIFESP, 2024 - Atual.
 
 ## Alumni
 
