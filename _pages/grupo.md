@@ -2,8 +2,6 @@
 layout: single
 title: "Grupo"
 permalink: /grupo/
-header:
-  image: /assets/images/vorticity.png
 ---
 
 
