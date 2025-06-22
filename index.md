@@ -5,11 +5,11 @@ author_profile: true
 title: " "
 ---
 
-<p style="font-size: 0.8em;">Sou oceanólogo formado pela Universidade Federal do Rio Grande (FURG) em 2011, com mestrado em Oceanografia Física, Química e Geológica pela mesma instituição (2014). Concluí o doutorado em Oceanografia Física, em regime de dupla titulação, pela Universidade de São Paulo (USP) e pela University of Massachusetts Dartmouth, em 2021.
+<p style="font-size: 0.8em;">Sou oceanólogo formado pela Universidade Federal do Rio Grande (FURG), com mestrado em Oceanografia Física, Química e Geológica (2014) e doutorado em Oceanografia Física pela Universidade de São Paulo (USP) e pela University of Massachusetts Dartmouth (2021), em dupla titulação.
+</p>
+<p style="font-size: 0.8em;">Fui pós-doutorando na USP (2021–2022) e na Stanford University (2022–2024). Desde 2024, sou professor na Universidade Federal de São Paulo (UNIFESP). Em 2025, criei o LOD, com foco em ensino e pesquisa sobre processos físicos multiescalares no oceano e suas interações com o clima e os ecossistemas marinhos.
 </p>
 
-<p style="font-size: 0.8em;">Após o doutorado, atuei como pós-doutorando na USP (2021–2022) e, em seguida, na Stanford University (2022–2024). Desde 2024, sou professor na Universidade Federal de São Paulo (UNIFESP), onde desenvolvo atividades de ensino e pesquisa com foco em processos físicos multiescalares no oceano e suas interações com o clima e os ecossistemas marinhos.
-</p>
 
 ### Interesses de pesquisa
 
