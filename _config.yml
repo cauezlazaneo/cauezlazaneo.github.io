@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Laboratório de Oceanografia Dinâmica - LOD/UNIFESP
+title: Laboratório de Oceanografia Dinâmica - LOD
 email: clazaneo@unifesp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Cauê Z. Lazaneo"
   avatar : "/assets/images/LOD_logo_lr.png"
-  bio    : "Professor Adjuntor<br /> Instituto do Mar<br /> Universidade Federal de São Paulo"
+  bio    : "Professor Adjuntor<br /> Instituto do Mar (IMar)<br /> Universidade Federal de São Paulo"
   location         : "Santos, SP, Brasil"
   email            : "clazaneo@unifesp.br"
 
