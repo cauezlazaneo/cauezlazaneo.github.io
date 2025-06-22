@@ -5,12 +5,10 @@ title: "Publicações"
 permalink: /publicacoes/
 ---
 
-[[Google Scholar](https://scholar.google.com/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0003-4063-5468), [Web of Science](https://www.webofscience.com/wos/author/record/AAH-9720-2019), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55804468100)]
+[[Google Scholar](https://scholar.google.com.br/citations?user=R1RsA5EAAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0002-9337-4532)
 
 
-### Peer-reviewed publications
-
-[Student names are underscored]
+### Publicações revisadas por pares
 
 
 0. [Anthropogenic pollutants in the Southwestern Atlantic Ocean slope: Is the Santos Bifurcation region a potential sink for organic contaminants?][31],
@@ -105,7 +103,7 @@ permalink: /publicacoes/
 
 0. [Traditional Quasi-Geostrophic Modes and Surface Quasi-Geostrophic Solutions in the Southwestern Atlantic][1],  
     **C. B. Rocha**, A. Tandon, I. C. A. da Silveira,  & J. A. M. Lima,  *Journal of Geophysical Research Oceans (2013)* 
-{: reversed="reversed"}
+
 
 ### Gray literature
 
