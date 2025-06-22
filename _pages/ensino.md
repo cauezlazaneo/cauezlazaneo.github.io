@@ -18,4 +18,4 @@ permalink: /ensino/
 - BICT9850: Trabalho de Conclusão de Curso I para o BICT Mar (2025/1,2025/2)
 - BICT5552: Trabalho de Conclusão de Curso I (2025/1, 2025/2)
 
-## Universidade Fedearal de Santa Catarina
+## Universidade Federal de Santa Catarina
