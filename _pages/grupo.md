@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research Group"
+title: "Grupo"
 permalink: /grupo/
 header:
   image: /assets/images/vorticity.png
@@ -9,10 +9,11 @@ header:
 
 ## Atual
 
-### Postdoc
+### Pós-Doutorado
 
 
-### Pós-graduação
+### Pós-Graduação
+
 
 ### Graduação
 
@@ -23,6 +24,10 @@ header:
 
 ## Alumni
 
-### Graduate students
+### Pós-Doutorado
 
-### Undergrads
+
+### Pós-Graduação
+
+
+### Graduação
