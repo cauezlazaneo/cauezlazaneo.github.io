@@ -8,11 +8,16 @@ permalink: /contato/
 
 
 <p style="font-size: 0.8em;">Prof. Dr. Cauê Zirnberger Lazaneo\\
-Departamento de Ciências do Mar\\
-Instituto do Mar, Universidade Federal de São Paulo\\
-Rua Carvalho de Mendonça, 144 - Encruzilhada\\
-Santos/SP - Brasil  11070-100
+</p>
+<p style="font-size: 0.8em;">Departamento de Ciências do Mar\\
+</p>
+<p style="font-size: 0.8em;">Instituto do Mar, Universidade Federal de São Paulo\\
+</p>
+<p style="font-size: 0.8em;">Rua Carvalho de Mendonça, 144 - Encruzilhada\\
+</p>
+<p style="font-size: 0.8em;">Santos/SP - Brasil  11070-100
 </p>
 
 ### e-mail 
-E-mail: clazaneo@unifesp.br
+<p style="font-size: 0.8em;">E-mail: clazaneo@unifesp.br
+</p>
