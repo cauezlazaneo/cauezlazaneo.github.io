@@ -26,5 +26,5 @@ permalink: /publicacoes/
 ### Literarura Cinza
 
 0. [Mixing and submesoscale dynamics in the western South Atlantic Ocean](https://repository.lib.umassd.edu/view/pdfCoverPage?instCode=01MA_DM_INST&filePid=13155675680001301&download=true). **C.Z. Lazaneo**, *Ph.D. Dissertation (2021)*
-0.[Resposta da produção biológica frente à dinâmica dos sistemas de ressurgência costeira sobre a Plataforma Continental Brasileira](), ** C.Z. Lazaneo**, *Master’s Thesis, (2014)*
+0. [Resposta da produção biológica frente à dinâmica dos sistemas de ressurgência costeira sobre a Plataforma Continental Brasileira](), ** C.Z. Lazaneo**, *Master’s Thesis, (2014)*
 
