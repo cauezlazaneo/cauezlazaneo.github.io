@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Caue Z Lazaneo"
+  name   : "Cauê Z. Lazaneo"
   avatar : "/assets/images/LOD_logo_lr.png"
-  bio    : ""Professor Adjuntor<br /> Instituto do Mar<br /> Universidade Federal de São Paulo""
+  bio    : "Professor Adjuntor<br /> Instituto do Mar<br /> Universidade Federal de São Paulo"
   location         : "Santos, SP, Brasil"
   email            : "clazaneo@unifesp.br"
 
