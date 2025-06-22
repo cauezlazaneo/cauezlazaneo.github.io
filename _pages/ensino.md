@@ -8,7 +8,6 @@ permalink: /ensino/
 
 ## Universidade Federal de São Paulo
 
-
 - OCN10331: Interação Oceano-Atmosfera (2024/2, 2025/2)
 - OCN10317: Oceanografia Instrumental (2025/1)
 - OCN10553: Análise de Dados e Modelagem Numérica (2025/1)
@@ -19,3 +18,6 @@ permalink: /ensino/
 - BICT5552: Trabalho de Conclusão de Curso I (2025/1, 2025/2)
 
 ## Universidade Federal de Santa Catarina
+
+- GCN7041: Oceanografia Física Descritiva (2016/1)
+- GCN7043: Interação Oceano-Atmosfera (2016/1)
