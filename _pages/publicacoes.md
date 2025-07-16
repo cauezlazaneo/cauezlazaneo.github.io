@@ -5,7 +5,7 @@ title: "Publicações"
 permalink: /publicacoes/
 ---
 
-[[Google Scholar](https://scholar.google.com.br/citations?user=R1RsA5EAAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0002-9337-4532)]
+[[Google Scholar](https://scholar.google.com.br/citations?user=R1RsA5EAAAAJ&hl=pt-BR&oi=ao), [ORCID](https://orcid.org/0000-0002-9337-4532), [CV_LATTES](http://lattes.cnpq.br/7409356733403783)]
 
 
 ### Publicações Revisadas Por Pares
