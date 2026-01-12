@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Cruzeiros Oceanográficos"
-permalink: /pesquisa/
+permalink: /Pesquisa/
 ---
 
 # Cruzeiros Oceanográficos
