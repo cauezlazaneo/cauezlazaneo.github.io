@@ -6,6 +6,8 @@ main:
   - title: "Publicações"
     url: /publicacoes/
   - title: "Pesquisa"
-    url: /Pesquisa/
+    url: /pesquisa/
+  - title: "Cruzeiros Oceanográficos"
+    url: /cruzeiros/
   - title: "Ensino"
     url: /ensino/
