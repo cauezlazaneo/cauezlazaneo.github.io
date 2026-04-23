@@ -5,6 +5,10 @@ title: "Cruzeiros Oceanográficos"
 permalink: /cruzeiros/
 ---
 
+
+### INCT - Biodiversidade da Amazônia Azul
+- 144h - NF Almirante Graça Aranha (H-34) (Cabo Frio, RJ - 2025)
+
 ### Island Arc Turbulent Eddy Regional Exchange
 - 528h R/V Thomas G. Thompson  (Mar das Filipinas, 2023)
 
