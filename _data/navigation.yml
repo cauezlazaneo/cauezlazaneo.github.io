@@ -11,3 +11,5 @@ main:
     url: /cruzeiros/
   - title: "Ensino"
     url: /ensino/
+  - title: "Eventos"
+    url: /eventos/
