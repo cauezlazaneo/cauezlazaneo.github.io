@@ -12,16 +12,17 @@ permalink: /grupo/
 
 ##### Pós-Graduação
 
+- [Gabriela Rodrigues Carubbi](http://lattes.cnpq.br/3588534183629887), Biodiversidade e Ecologia, Marinha e Costeira (M.Sc.), Unifesp - 2026 - Atual.
+  
 ##### Graduação
 
-- [Ana Carolina André](), BICTMar, UNIFESP, 2025 - Atual.
-- [Ingrid Helena Pereira](http://lattes.cnpq.br/3879941645391821), BICTMar, UNIFESP, 2024 - Atual.
-- [Júlia Moreira Nascimento](http://lattes.cnpq.br/3536262267435365), BICTMar, UNIFESP, 2025 - Atual.
-- [Nandhara Alexandrini Martins](http://lattes.cnpq.br/6204498478022765), Oceanografia, UNIFESP, 2025 - atual.
-- [Peahi Silva Freitas](http://lattes.cnpq.br/5355248042709167), BICTMar, UNIFESP, 2025 - Atual.
-- [Victória Melo](), Oceanografia, UNIFESP, 2025 - atual.
+- [Júlia Moreira Nascimento](http://lattes.cnpq.br/3536262267435365), BICTMar, Unifesp, 2025 - Atual.
+- [Peahi Silva Freitas](http://lattes.cnpq.br/5355248042709167), BICTMar, Unifesp, 2025 - Atual.
+- [Anna Clara Lelis Santana](http://lattes.cnpq.br/5355248042709167), BICTMar, Unifesp, 2025 - Atual.
 
 #### Alumni
+
+- [Ingrid Helena Pereira](http://lattes.cnpq.br/3879941645391821), BICTMar, Unifesp, 2024 - 2026.
 
 ##### Pós-Doutorado
 
